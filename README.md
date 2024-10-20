@@ -2,7 +2,7 @@
 This is a flutter project that uses the zkteco finger print scanner to scan finger prints.
 
 # Demo
-![Demo](
+![Demo](https://github.com/Brian1011/zkteco_flutter_fingerprint_scanner/blob/main/assets/scanner.gif)
 
 
 ## Getting Started
