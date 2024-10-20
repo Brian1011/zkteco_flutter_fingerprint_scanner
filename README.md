@@ -34,3 +34,12 @@ Make sure you have the following:
 4. Run the project on flutter version 3.22.2
 
 5. ZK9500 Fingerprint Scanner was used in this project. You can use any other Zkteco Finger Print Scanner that is compatible with the ZKFinger SDK.
+
+
+## Author
+👤 **Brian Mutinda**
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://brianmutinda.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-mutinda-366064163/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/brian_1011_dev)
+
